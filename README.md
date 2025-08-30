@@ -1,4 +1,4 @@
-# Introduction to Machine Learning (NPFL129, Winter 2024/25)
+# Introduction to Machine Learning (WS 2024/25)
 
 This repository contains my solutions to assignments from the *Introduction to Machine Learning with Python* (NPFL129) course at Charles University, ÚFAL, winter semester 2024/25.  
 The course covers both the theoretical foundations and hands-on implementation of core machine learning methods.  
@@ -16,3 +16,4 @@ The course covers both the theoretical foundations and hands-on implementation o
 10. **Gradient Boosted Decision Trees** — boosting methods, human activity recognition.  
 11. **Dimensionality Reduction & Clustering** — SVD, PCA, k-means, natural language inference.  
 12. **Statistical Testing & Model Comparison** — bootstrap resampling, permutation tests.  
+
